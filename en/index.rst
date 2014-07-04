@@ -5,5 +5,6 @@ Guidance
    :titlesonly:
 
    how-to-publish
+   faqs
    datastore
 
