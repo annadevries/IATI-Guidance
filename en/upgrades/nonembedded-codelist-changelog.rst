@@ -330,6 +330,11 @@ Updates to other non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 20th November 2017
+     - :doc:`IndicatorVocabulary </codelists/IndicatorVocabulary>`
+     - Add new code.
+     - Update the IndicatorVocabulary codelist with the new addition of code 8- HIPSO.
+     - See `Proposed addition of HIPSO to the Indicator Vocabulary Codelist <https://discuss.iatistandard.org/t/approved-proposed-addition-of-hipso-to-the-indicator-vocabulary-codelist/1102>`__
    * - 6th November 2017
      - :doc:`Country </codelists/Country>`
      - Mark a code as withdrawn.
