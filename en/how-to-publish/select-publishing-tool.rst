@@ -26,7 +26,7 @@ More information about pricing can be found `here <http://akvo.org/products/rsr/
 Spreadsheet2IATI Service
 =========================
 
-The Spreadsheet2IATI service is a tool that makes producing valid IATI data easy and accessible, streamlining the reporting process. 
+The Spreadsheet2IATI service by `Data4Development <https://data4development.nl/en/>`__ is a tool that makes producing valid IATI data easy and accessible, streamlining the reporting process. 
 
 The service has been running successfully since May 2017. It offers standardized spreadsheets templates (e.g. in Excel format) you can use and update with your information. The converter reads the spreadsheets, checks if they are valid, and produces the XML files. You receive feedback on the data quality and insight in what is included, to check for completeness. Think of it as your accountant or payroll service: for each quarterly or monthly update, you provide the raw information, and we compile the IATI file with additional advice for data quality improvement. You remain in control of the process, choosing to publish directly via the tool or to upload the information yourself. 
 
